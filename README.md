@@ -1,4 +1,4 @@
-## Assignment 1 - UniqueVector and Classroom
+UniqueVector and Classroom
 
 This repository contains classes which make use of dynamic memory allocation in order to create a flexible method for organizing data. In order to get started using these classes, one must use the 4 included files within this repository - UniqueVector.h, UniqueVector.cpp, Classroom.h, Classroom.cpp. The .h files contain the interfaces of their respective classes and the .cpp ones implement how the functions perform their tasks. This yields two separate classes: UniqueVector and CLassroom. UniqueVector can be used without Classroom, but Classroom can't be used without UniqueVector. It would be difficult to understand the functionality of the Classroom data type without first understanding the UniqueVector data type, so that is where to begin.
 
